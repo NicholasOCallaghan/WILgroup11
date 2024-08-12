@@ -1,0 +1,125 @@
+D:\C# Projects\Payroll Appplication\Payroll Appplication\bin\Debug\Payroll Appplication.exe.config
+D:\C# Projects\Payroll Appplication\Payroll Appplication\bin\Debug\Payroll Appplication.exe
+D:\C# Projects\Payroll Appplication\Payroll Appplication\bin\Debug\Payroll Appplication.pdb
+D:\C# Projects\Payroll Appplication\Payroll Appplication\obj\Debug\Payroll Appplication.csproj.AssemblyReference.cache
+D:\C# Projects\Payroll Appplication\Payroll Appplication\obj\Debug\MainWindow.g.cs
+D:\C# Projects\Payroll Appplication\Payroll Appplication\obj\Debug\App.g.cs
+D:\C# Projects\Payroll Appplication\Payroll Appplication\obj\Debug\Payroll Appplication_MarkupCompile.cache
+D:\C# Projects\Payroll Appplication\Payroll Appplication\obj\Debug\Payroll Appplication_MarkupCompile.lref
+D:\C# Projects\Payroll Appplication\Payroll Appplication\obj\Debug\MainWindow.baml
+D:\C# Projects\Payroll Appplication\Payroll Appplication\obj\Debug\Payroll Appplication.g.resources
+D:\C# Projects\Payroll Appplication\Payroll Appplication\obj\Debug\Payroll_Appplication.Properties.Resources.resources
+D:\C# Projects\Payroll Appplication\Payroll Appplication\obj\Debug\Payroll Appplication.csproj.GenerateResource.cache
+D:\C# Projects\Payroll Appplication\Payroll Appplication\obj\Debug\Payroll Appplication.csproj.CoreCompileInputs.cache
+D:\C# Projects\Payroll Appplication\Payroll Appplication\obj\Debug\Payroll Appplication.exe
+D:\C# Projects\Payroll Appplication\Payroll Appplication\obj\Debug\Payroll Appplication.pdb
+D:\C# Projects\Payroll Appplication\Payroll Appplication\obj\Debug\Login.g.cs
+D:\C# Projects\Payroll Appplication\Payroll Appplication\obj\Debug\Login.baml
+D:\C# Projects\Payroll Appplication\Payroll Appplication\bin\Debug\CommonServiceLocator.dll
+D:\C# Projects\Payroll Appplication\Payroll Appplication\bin\Debug\GalaSoft.MvvmLight.dll
+D:\C# Projects\Payroll Appplication\Payroll Appplication\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+D:\C# Projects\Payroll Appplication\Payroll Appplication\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+D:\C# Projects\Payroll Appplication\Payroll Appplication\bin\Debug\System.Windows.Interactivity.dll
+D:\C# Projects\Payroll Appplication\Payroll Appplication\bin\Debug\GalaSoft.MvvmLight.pdb
+D:\C# Projects\Payroll Appplication\Payroll Appplication\bin\Debug\GalaSoft.MvvmLight.xml
+D:\C# Projects\Payroll Appplication\Payroll Appplication\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+D:\C# Projects\Payroll Appplication\Payroll Appplication\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+D:\C# Projects\Payroll Appplication\Payroll Appplication\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+D:\C# Projects\Payroll Appplication\Payroll Appplication\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+D:\C# Projects\Payroll Appplication\Payroll Appplication\obj\Debug\Payroll .96780DE0.Up2Date
+D:\C# Projects\Payroll Appplication\Payroll Appplication\obj\Debug\Employees.g.cs
+D:\C# Projects\Payroll Appplication\Payroll Appplication\obj\Debug\Employees.baml
+D:\C# Projects\Payroll Appplication\Payroll Appplication\obj\Debug\EmployeeEdit.g.cs
+D:\C# Projects\Payroll Appplication\Payroll Appplication\obj\Debug\EmployeeEdit.baml
+D:\C# Projects\Payroll Appplication\Payroll Appplication\obj\Debug\PayrollHandling.g.cs
+D:\C# Projects\Payroll Appplication\Payroll Appplication\obj\Debug\PayrollHandling.baml
+D:\C# Projects\Payroll Appplication\Payroll Appplication\obj\Debug\RegisterPage.g.cs
+D:\C# Projects\Payroll Appplication\Payroll Appplication\obj\Debug\RegisterPage.baml
+D:\C# Projects\Payroll Appplication\Payroll Appplication\obj\Debug\Profile.g.cs
+D:\C# Projects\Payroll Appplication\Payroll Appplication\obj\Debug\Statistics.g.cs
+D:\C# Projects\Payroll Appplication\Payroll Appplication\obj\Debug\Profile.baml
+D:\C# Projects\Payroll Appplication\Payroll Appplication\obj\Debug\Statistics.baml
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\bin\Debug\Payroll Appplication.exe.config
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\bin\Debug\Payroll Appplication.exe
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\bin\Debug\Payroll Appplication.pdb
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\bin\Debug\CommonServiceLocator.dll
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\obj\Debug\Payroll Appplication.csproj.AssemblyReference.cache
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\obj\Debug\EmployeeEdit.g.cs
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\obj\Debug\Employees.g.cs
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\obj\Debug\MainWindow.g.cs
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\obj\Debug\Login.g.cs
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\obj\Debug\PayrollHandling.g.cs
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\obj\Debug\Profile.g.cs
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\obj\Debug\RegisterPage.g.cs
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\obj\Debug\Statistics.g.cs
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\obj\Debug\App.g.cs
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\obj\Debug\Payroll Appplication_MarkupCompile.cache
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\obj\Debug\Payroll Appplication_MarkupCompile.lref
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\obj\Debug\EmployeeEdit.baml
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\obj\Debug\Employees.baml
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\obj\Debug\MainWindow.baml
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\obj\Debug\Login.baml
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\obj\Debug\PayrollHandling.baml
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\obj\Debug\Profile.baml
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\obj\Debug\RegisterPage.baml
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\obj\Debug\Statistics.baml
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\obj\Debug\Payroll Appplication.g.resources
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\obj\Debug\Payroll_Appplication.Properties.Resources.resources
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\obj\Debug\Payroll Appplication.csproj.GenerateResource.cache
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\obj\Debug\Payroll Appplication.csproj.CoreCompileInputs.cache
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\obj\Debug\Payroll Appplication.csproj.CopyComplete
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\obj\Debug\Payroll Appplication.exe
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\obj\Debug\Payroll Appplication.pdb
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\bin\Debug\Google.Protobuf.dll
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\bin\Debug\MySql.Data.dll
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\bin\Debug\MySqlConnector.dll
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\bin\Debug\System.Buffers.dll
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\bin\Debug\System.IO.Pipelines.dll
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\bin\Debug\System.Memory.dll
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\bin\Debug\ZstdSharp.dll
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\bin\Debug\Google.Protobuf.pdb
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\bin\Debug\Google.Protobuf.xml
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\bin\Debug\MySql.Data.xml
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\bin\Debug\MySqlConnector.xml
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\bin\Debug\System.Buffers.xml
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\bin\Debug\System.IO.Pipelines.xml
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\bin\Debug\System.Memory.xml
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\bin\Debug\LiveCharts.dll
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\bin\Debug\LiveCharts.pdb
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\bin\Debug\LiveCharts.xml
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\obj\Debug\UserLogin.g.cs
+C:\Users\coenr\OneDrive\Desktop\Payroll Appplication\Payroll Appplication\obj\Debug\UserLogin.baml
